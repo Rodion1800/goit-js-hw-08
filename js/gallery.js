@@ -106,4 +106,3 @@ list.addEventListener("click", (event) => {
     instance.show();
   }
 });
-instance.style.backgroundColor = "#2E2F42CC";
